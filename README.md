@@ -1,27 +1,16 @@
-# Atom UI Theme Template
-
-This is a __starter template__ for creating an Atom UI theme.
-
-This template only includes the __minimum of styling__ needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at [atom.io/themes](https://atom.io/themes/). Or you're always free to fork a theme that already comes close to your vision.
-
-Happy theming! 🚀
-
-
-## Getting started
-
-1. Fork this repository.
-2. Continue with step 2 from [Creating a UI Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme)
-
-If you get stuck somewhere, feel free to create an [issue](https://github.com/atom-community/ui-theme-template/issues/new).
-
-ps. Don't forget to delete the above and edit the below in your own `README.md`.
-
+## DarkBlue Ice for atom
+![example](https://cdn.discordapp.com/attachments/774302890142597160/864123164719185930/unknown.png)
+### A Beautiful theme for atom with Dark blue and ice colors distributed in a harmonic way.
 
 ---
 
+## Add to your atom:
 
-# My UI theme
+---
 
-A short description of your theme.
+## Color pallet
+![pallet](https://camo.githubusercontent.com/2e67f609b99ede006ac943a892c90ee79e335503d4f0a48182e4351e82e6eb10/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737343330323839303134323539373136302f3836333739313735313436313939343439362f756e6b6e6f776e2e706e67)
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+---
+
+## Made by [André V.](https://github.com/Dedsd)
